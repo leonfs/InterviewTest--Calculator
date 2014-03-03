@@ -26,6 +26,7 @@ Example 1.
 [Output to screen]
 15
  
+
 [Explanation]
 (3 + 2) * 3 = 15
  
