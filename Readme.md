@@ -16,7 +16,7 @@ Write some code to calculate a result from a set of instructions.  Instructions 
 
 Examples of the calculator lifecycle might be:
 
-## Example 1.
+## Example 1
 
 ### Input from file
 * add 2
@@ -32,21 +32,21 @@ Examples of the calculator lifecycle might be:
 
 ## Example 2.
 
-[Input from file]
+### Input from file
 * multiply 9
 * apply 5
 
-[Output to screen]
+### Output to screen
 45
  
-[Explanation]
+### Explanation
 5 * 9 = 45
 
 
 ## Example 3.
 
-[Input from file]
+### Input from file
 * apply 1
 
-[Output to screen]
+### Output to screen
 1
