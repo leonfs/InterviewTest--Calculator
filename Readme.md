@@ -30,7 +30,7 @@ Examples of the calculator lifecycle might be:
 (3 + 2) * 3 = 15
  
 
-## Example 2.
+## Example 2
 
 ### Input from file
 * multiply 9
@@ -43,7 +43,7 @@ Examples of the calculator lifecycle might be:
 5 * 9 = 45
 
 
-## Example 3.
+## Example 3
 
 ### Input from file
 * apply 1
