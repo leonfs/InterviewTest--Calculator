@@ -19,18 +19,14 @@ Examples of the calculator lifecycle might be:
 Example 1.
 
 [Input from file]
-
 * add 2
 * multiply 3
 * apply 3
 
-
 [Output to screen]
-
 15
  
 [Explanation]
-
 (3 + 2) * 3 = 15
  
 
@@ -41,11 +37,9 @@ Example 2.
 * apply 5
 
 [Output to screen]
-
 45
  
 [Explanation]
-
 5 * 9 = 45
 
 
@@ -55,5 +49,4 @@ Example 3.
 * apply 1
 
 [Output to screen]
-
 1
